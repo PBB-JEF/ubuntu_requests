@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore image fetcher output
+Fetched_Images/
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
