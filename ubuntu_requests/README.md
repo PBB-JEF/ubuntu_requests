@@ -1,6 +1,11 @@
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d36910d1-6f9f-405c-9db7-ad364e641de4" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/635ed9d9-c80a-446b-91ac-283fda410beb" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/10b35185-4cc4-42a5-a57a-a327654be1fb" />
+
+
+
 
 
 markdown
